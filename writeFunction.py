@@ -11,4 +11,4 @@ def is_leap(year):
             leap = True
     return leap
 
-year = int(raw_input())
+year = int(input())
